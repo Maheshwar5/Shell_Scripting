@@ -1,4 +1,4 @@
-# Exploring & Learning Linux Shell Scripting
+- Exploring & Learning Linux Shell Scripting
 01-Bash Basics --> Basic Shell Scripts
 
 How to run a CMD inside a script
