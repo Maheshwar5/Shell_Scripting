@@ -1,5 +1,6 @@
 Exploring & Learning Linux Shell Scripting!
 * 01-Bash Basics --> Basic Shell Scripts
+
 includes:
 * How to run a CMD inside a script
 * Date Formating in Linux!
