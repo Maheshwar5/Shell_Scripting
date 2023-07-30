@@ -1,5 +1,5 @@
-Exploring & Learning Linux Shell Scripting
-01-Bash Basics --> Basic Shell Scripts
+Exploring & Learning Linux Shell Scripting!
+1-Bash Basics --> Basic Shell Scripts
 
 How to run a CMD inside a script
 * Checking date
